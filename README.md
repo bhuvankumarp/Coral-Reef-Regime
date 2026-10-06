@@ -3,7 +3,7 @@
 This project is a multiclass machine learning classification system designed to predict coral reef regimes based on 20 distinct anthropogenic, biophysical, and environmental features. The best performing model (Random Forest) has been extracted and deployed through a Streamlit web application.
 
 ## 🚀 Live Demo
-You can view the live deployment of this application at: **[Insert Your Streamlit Cloud Link Here]**
+You can view the live deployment of this application at: **https://coral-reef-regime.streamlit.app/**
 
 ---
 
